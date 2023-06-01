@@ -7,7 +7,7 @@
   <button class="btn btn-primary" type="button" onclick="frmingreso();">+</button>
   <button class="btn btn-primary ml-2" type="button" onclick="frmfitro2();">Filtrar</button>
   <button class="btn btn-danger ml-2" type="button" onclick="eliminarflt();">Eliminar filtro</button>
-  <label for="Paciente">Paciente</label>
+  <label for="Paciente">Paciente.</label>
   <input id="Paciente" class="form-control" type="text" name="Paciente" placeholder="Nombre completo del paciente">
   <button class="btn btn-primary ml-2" type="button" onclick="ticket();">Generar ticket</button>
   </div>
