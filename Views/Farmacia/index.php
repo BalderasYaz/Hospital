@@ -1,7 +1,7 @@
 <?php include "Views/Templates/header.php"; ?>
 <div class="row align-items-center">
   <div class="col-8 col-md-9">
-    <h1 class="h4">Invetario de Farmacia</h1>
+    <h1 class="h4">Invetario de Farmacia.</h1>
   </div>
   <div class="col-4 col-md-3 text-right">
     <button class="btn btn-primary ml-2" type="button" onclick="frmFarmacia();">+</button>
